@@ -1,4 +1,4 @@
-# Classification des Iris : Pipeline de Machine Learning Professionnel
+# Classification des Iris : Pipeline de Machine Learning
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange.svg)](https://scikit-learn.org/)
