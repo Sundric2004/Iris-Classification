@@ -1,4 +1,4 @@
-# 🌸 Classification des Iris : Pipeline de Machine Learning Professionnel
+# Classification des Iris : Pipeline de Machine Learning Professionnel
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange.svg)](https://scikit-learn.org/)
@@ -39,7 +39,7 @@ L'objectif est de prédire l'espèce d'une fleur d'Iris (*Setosa*, *Versicolor*,
 1. **Cloner le projet** :
    ```bash
    git clone [https://github.com/votre-utilisateur/iris-classification-pro.git](https://github.com/votre-utilisateur/iris-classification-pro.git)
-   cd iris-classification-pro
+   cd iris-classification
 
 2. **Installer les dépendances**
 
